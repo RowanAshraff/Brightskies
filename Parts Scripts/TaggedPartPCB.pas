@@ -28,7 +28,7 @@ Begin
     TableName := '';
     PartID := '';
     Libref := '';
-    FileName := 'C:\Parts\Parts Scripts\TaggedPart.log';
+    FileName := 'C:\Parts_x64\Parts Scripts\TaggedPart.log';
 
     Board := PCBServer.GetCurrentPCBBoard;
     if Board = nil then

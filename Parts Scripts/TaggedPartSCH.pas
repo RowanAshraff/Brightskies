@@ -27,7 +27,7 @@ Var
     TableName := '';
     PartID := '';
     Libref := '';
-    FileName := 'C:\Parts\Parts Scripts\TaggedPart.log';
+    FileName := 'C:\Parts_x64\Parts Scripts\TaggedPart.log';
 
     // Verify the Log File Exists
     If not FileExists(FileName) then

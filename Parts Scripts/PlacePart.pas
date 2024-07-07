@@ -41,9 +41,9 @@ Begin
 
     // Dynamically Modified Variables by Parts Frontend.accde
     // DBlib Library Name, TableName and Library Ref (Design ID)
-    LibName := 'Parts.DBLib';
+    LibName := 'Parts.DbLib';
     TableName := 'Parts';
-    Libref := '30032';
+    Libref := '30033';
 
     If SchServer = Nil Then Exit;
     CurrentSch := SchServer.GetCurrentSchDocument;
