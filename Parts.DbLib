@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Parts_x64\Part
 AddMode=3
 RemoveMode=2
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=`
 RightQuote=`
 QuoteTableNames=1
