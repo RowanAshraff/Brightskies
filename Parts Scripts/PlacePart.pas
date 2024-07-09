@@ -43,7 +43,7 @@ Begin
     // DBlib Library Name, TableName and Library Ref (Design ID)
     LibName := 'Parts.DbLib';
     TableName := 'Parts';
-    Libref := '30002';
+    Libref := '30004';
 
     If SchServer = Nil Then Exit;
     CurrentSch := SchServer.GetCurrentSchDocument;
